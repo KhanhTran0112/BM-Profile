@@ -50,12 +50,13 @@
             this.txtLinkBM.Location = new System.Drawing.Point(12, 25);
             this.txtLinkBM.Multiline = true;
             this.txtLinkBM.Name = "txtLinkBM";
-            this.txtLinkBM.Size = new System.Drawing.Size(174, 413);
+            this.txtLinkBM.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.txtLinkBM.Size = new System.Drawing.Size(219, 413);
             this.txtLinkBM.TabIndex = 1;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(192, 79);
+            this.button1.Location = new System.Drawing.Point(262, 79);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 23);
             this.button1.TabIndex = 2;
@@ -66,7 +67,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(189, 9);
+            this.label2.Location = new System.Drawing.Point(259, 9);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(53, 13);
             this.label2.TabIndex = 3;
@@ -74,14 +75,14 @@
             // 
             // txtpassword
             // 
-            this.txtpassword.Location = new System.Drawing.Point(192, 25);
+            this.txtpassword.Location = new System.Drawing.Point(262, 25);
             this.txtpassword.Name = "txtpassword";
             this.txtpassword.Size = new System.Drawing.Size(100, 20);
             this.txtpassword.TabIndex = 4;
             // 
             // btnOpen
             // 
-            this.btnOpen.Location = new System.Drawing.Point(192, 51);
+            this.btnOpen.Location = new System.Drawing.Point(262, 51);
             this.btnOpen.Name = "btnOpen";
             this.btnOpen.Size = new System.Drawing.Size(100, 23);
             this.btnOpen.TabIndex = 5;
