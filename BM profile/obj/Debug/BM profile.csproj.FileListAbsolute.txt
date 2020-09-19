@@ -1,0 +1,13 @@
+D:\C#\BM profile\BM profile\bin\Debug\BM profile.exe.config
+D:\C#\BM profile\BM profile\bin\Debug\BM profile.exe
+D:\C#\BM profile\BM profile\bin\Debug\BM profile.pdb
+D:\C#\BM profile\BM profile\bin\Debug\WebDriver.dll
+D:\C#\BM profile\BM profile\bin\Debug\WebDriver.xml
+D:\C#\BM profile\BM profile\obj\Debug\BM profile.csprojAssemblyReference.cache
+D:\C#\BM profile\BM profile\obj\Debug\BM_profile.Form1.resources
+D:\C#\BM profile\BM profile\obj\Debug\BM_profile.Properties.Resources.resources
+D:\C#\BM profile\BM profile\obj\Debug\BM profile.csproj.GenerateResource.cache
+D:\C#\BM profile\BM profile\obj\Debug\BM profile.csproj.CoreCompileInputs.cache
+D:\C#\BM profile\BM profile\obj\Debug\BM profile.csproj.CopyComplete
+D:\C#\BM profile\BM profile\obj\Debug\BM profile.exe
+D:\C#\BM profile\BM profile\obj\Debug\BM profile.pdb

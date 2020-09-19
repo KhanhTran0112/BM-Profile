@@ -1,0 +1,5 @@
+2020/09/19-13:57:42.985 2c50 Reusing MANIFEST D:\C#\BM profile\BM profile\bin\Debug\Profile\0\Default\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/19-13:58:15.010 4c34 Level-0 table #5: started
+2020/09/19-13:58:15.012 4c34 Level-0 table #5: 1233 bytes OK
+2020/09/19-13:58:15.016 4c34 Delete type=0 #3
+2020/09/19-13:58:15.017 4c34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
